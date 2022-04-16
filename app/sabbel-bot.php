@@ -57,8 +57,8 @@ if (in_array(strtolower($message), $wordsForYes) and !isset($sent) and $replyA =
     $sent = true;
     shuffle($randomMainAnswer);
     sendMessage($bot_id, $chat_id, false, $randomMainAnswer[0]);
+    sleep(2);
     if ($baby == 0) {
-        sleep(2);
         $sent = true;
         $randomAnswer = array(
             'Willst du noch mal nach Fragen?',

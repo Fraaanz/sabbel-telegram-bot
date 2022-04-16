@@ -1,4 +1,5 @@
 <?php
+unlink('randomMainAnswer.php');
 $file = 'randomMainAnswer.php';
 // Öffnet die Datei, um den vorhandenen Inhalt zu laden
 //$current = file_get_contents($file);
