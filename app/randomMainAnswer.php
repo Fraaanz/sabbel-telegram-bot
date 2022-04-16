@@ -1,0 +1,1 @@
+<?php $randomMainAnswer = array($first_name . ' neee  – dauert noch 😉','Sorry, aber ist noch nicht da 🤷🏾','Aber das Baby ist noch nicht da. Sorry ' . $first_name . ' 😥','Nein dauert noch. Frag später noch mal ' . $first_name . ' 🤗','Hmm ... Das mit dem Baby dauert wohl noch etwas. 🙃',);?>
